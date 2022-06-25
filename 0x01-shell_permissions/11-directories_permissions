@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+drwx,g+drwx,o+drwx 
+chmod -R a+X ./
